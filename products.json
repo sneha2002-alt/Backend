@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "The Brown Metro Movers",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Metro Movers Black",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "The Metro Movers Black",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Metro Movers Black",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "The Brown Metro Movers",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "The Metro Movers Black",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image2.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Metro Movers Black",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image3.jpg"
+  },
+  {
+    "id": 8,
+    "title": "The Metro Movers Black",
+    "originalPrice": 8999,
+    "discountedPrice": 4899,
+    "percentageOff": "50%",
+    "image": "Images/image4.jpg"
+  }
+]
