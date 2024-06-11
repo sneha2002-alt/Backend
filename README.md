@@ -1,5 +1,5 @@
-# Dynamic Page of TANN TRIM
-This is the backend : https://github.com/Shubham99s/TannTrimBackend
+# TANN TRIM Website
+This is the backend : https://github.com/sneha2002-alt/Backend.git
 
 For frontend Part: https://github.com/Shubham99s/dynamic-page
 
